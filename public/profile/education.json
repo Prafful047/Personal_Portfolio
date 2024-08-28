@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Ceramic Engineering",
+            "cardSubtitle":"NIT, Rourkela",
+            "cardDetailedText": "CGPA - 7.85",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2020",
+            "cardTitle": "High School",
+            "cardSubtitle":"Rajiv Gandhi Academy of E-Learning, Pune",
+            "cardDetailedText": "Marks - 83.69%"
+        }
+    ]
+}

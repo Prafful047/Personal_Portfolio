@@ -1,0 +1,110 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Twitterex.jpeg",
+            "title": "TwittereX",
+            "bodyText": "- Twitter Clone Website made in React\n -  Tweeting functionality with posts visible in feed\n - Additional functionalities such as subscription plans, otp verification , login history tracking and multi-lingual support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prafful047/Twitter-Full_Stack_Clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://twitterex.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "MongoDB",
+                "JavaScript",
+                "Express",
+                "Heroku",
+                "Nodejs"
+            ]
+        },
+        {
+            "image" : "images/projects/Portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Portfolio Website made in React\n -  Responsive Design\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prafful047/Personal_Portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://praffulawadhiya.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Nodejs"
+            ]
+        },
+        {
+            "image" : "images/projects/musiczone.jpg",
+            "title": "My MusicZone",
+            "bodyText": "- A music player web app made using html, css and javascript.\n - Functionalities like progress bar, volume bar, play button , pause button , next button , previous button implemented through Javascript ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prafful047/MusicZone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://praffulsmusiczone.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "image" : "images/projects/Currency-convertor.jpg",
+            "title": "Currency Converter App",
+            "bodyText": "- Website for streamlined global transactions build using HTML, CSS and JavaScript.\n - Can be used to convert almost all the currencies to one another with latest exchange retes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prafful047/CCProject"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://praffulscurrencyconverter.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/Portfolio2.png",
+            "title": "Portfolio",
+            "bodyText": "- Portfolio Website made using Html, CSS and JavaScript.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Prafful047/Portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://praffulawadhiya2.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+        
+        
+        
+    ]
+}

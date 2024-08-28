@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "Summer Research Intern",
+            "subtitle": "IISER Bhopal",
+            "workType": "On-Site Internship",
+            "workDescription": [
+                "Worked on Task Allocation Algorithms",
+                "Improved my problem solving abilities and expanded my knowledge of Optimisation Algorithms"
+            ],
+            "dateText": "05/2024 – 07/2024"
+        },
+        {
+            "title": "Web Development Intern",
+            "subtitle": "Nullclass",
+            "workType": "Remote Internship (Part-Time)",
+            "workDescription": [
+                "Worked on frontend and backend web technologies including Reactjs , Expressjs , Nodejs and MongoDb database to add crucial functionalities in websites."
+            ],
+            "dateText": "06/2024 – 07/2024"
+        }
+    ]
+}

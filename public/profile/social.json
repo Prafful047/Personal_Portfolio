@@ -1,0 +1,18 @@
+
+
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/prafful-awadhiya-655748262/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Prafful047"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:praffulawadhiya047@gmail.com"
+        }
+    ]
+}
